@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 welcome to git modified by salman
+
+welcome to git done by vamc
+
